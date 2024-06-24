@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hydeletric.github.io/sitemap
+Sitemap: https://hydeletric.github.io/app/sitemap
+Sitemap: https://hydeletric.github.io/assets/sitemap
+Sitemap: https://hydeletric.github.io/css/sitemap
+Sitemap: https://hydeletric.github.io/includes/sitemap
+Sitemap: https://hydeletric.github.io/item/sitemap
+Sitemap: https://hydeletric.github.io/src/sitemap
